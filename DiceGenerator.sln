@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceGenerator", "DiceGenerator\DiceGenerator.csproj", "{38010101-5CB2-4A30-A359-2376BA9587C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38010101-5CB2-4A30-A359-2376BA9587C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38010101-5CB2-4A30-A359-2376BA9587C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38010101-5CB2-4A30-A359-2376BA9587C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38010101-5CB2-4A30-A359-2376BA9587C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1221EA52-778A-4E6C-BA3F-2BBD0B3CCFF1}
+	EndGlobalSection
+EndGlobal
